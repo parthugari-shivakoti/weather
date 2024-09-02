@@ -1,5 +1,5 @@
 Name: P SHIVAKOTI
-CompanDSDSy: CODTECH IT SOLUTIONS
+Company: CODTECH IT SOLUTIONS
 ID: CT08DS7699
 Domain: Web Development
 Duration: Aug to Sep 2024
