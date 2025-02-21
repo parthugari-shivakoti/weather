@@ -32,6 +32,9 @@ The application supports the following key activities:
 - **CSS:** Styles the application to create a visually appealing user interface.
 - **JavaScript:** Implements the functionality to fetch data from the OpenWeather API and update the UI dynamically.
 - **OpenWeather API:** Used to retrieve current weather data for a given location.
+  
+## OUTPUT OF THIS PROJECT AS:
+
 
 ## Getting Started
 
